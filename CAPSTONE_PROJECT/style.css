@@ -1,0 +1,373 @@
+.dashboard {
+    background-image: url(gambar/kids.jpg);
+    background-size: 1560px 824px;
+    margin: 0;
+}
+
+.kenal-angka {
+    background-image: url(gambar/KenalAngka.jpg);
+    background-size: 1600px 824px;
+}
+
+.kenal-warna {
+    background-image: url(gambar/KenalWarna.jpg);
+    background-size: 1600px 824px;
+}
+
+.kenal-huruf {
+    background-image: url(gambar/KenalHuruf.jpg);
+    background-size: 1600px 824px;
+}
+
+.kenal-suara {
+    background-image: url(gambar/KenalSuara.jpg);
+    background-size: 1600px 824px;
+}
+
+/* .kenal_angka {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 150px;
+    border-radius: 20px; 
+    text-align: center;
+    font-style: bold;
+    font-size: 20px;
+} 
+
+.kenal_warna {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 190px;
+    border-radius: 20px; 
+    border-radius: 20px;
+    text-align: center;
+    font-style: bold;
+    font-size: 20px;
+}
+
+.kenal_huruf {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 155px;
+    border-radius: 20px;
+    text-align: center;
+    font-style: bold;
+    font-size: 20px; 
+}
+
+.kenal_suara {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 200px;
+    border-radius: 20px; 
+    text-align: center;
+    font-style: bold;
+    font-size: 18px; 
+} */
+
+#btn {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.btn--primary {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.btn--success {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.btn--secondary {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.btn--nnn {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.back {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 10px;
+    border-radius: 20px; 
+    font-style: bold;
+    font-size: 12px;
+}
+
+.next {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 10px;
+    border-radius: 20px; 
+    font-style: bold;
+    font-size: 12px;
+}
+
+.btn--red {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.btn--pink {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--yellow {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--cream {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--green {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.btn--blue {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--chocolate {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--orange {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--grey {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 120px;
+    border-radius: 10px;
+}
+
+.btn--white {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--purple {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--black {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--a {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 285px;
+    border-radius: 10px;
+}
+
+.btn--b {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 265px;
+    border-radius: 10px;
+}
+
+.btn--c {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 285px;
+    border-radius: 10px;
+}
+
+.btn--d {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 285px;
+    border-radius: 10px;
+}
+
+.btn--e {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 275px;
+    border-radius: 10px;
+}
+
+.btn--f {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 275px;
+    border-radius: 10px;
+}
+
+.btn--g {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--h {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 285px;
+    border-radius: 10px;
+}
+
+.btn--i {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 275px;
+    border-radius: 10px;
+}
+
+.btn--j {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 275px;
+    border-radius: 10px;
+}
+
+.btn--k {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 280px;
+    border-radius: 10px;
+}
+
+.btn--l {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 285px;
+    border-radius: 10px;
+}
+
+.finish {
+    background: #5b3925;
+    color :rgb(233, 210, 164);
+    padding: 8px 20px;
+    margin-left: 10px;
+    border-radius: 20px; 
+    font-style: bold;
+    font-size: 12px;
+}
+
+.katak {
+    padding: 8px 20px;
+    margin-left: 200px;
+}
+
+.gajah {
+    padding: 8px 20px;
+    margin-left: 30px;
+}
+
+.harimau {
+    padding: 8px 20px;
+    margin-left: 30px;
+}
+
+.angklung {
+    padding: 8px 20px;
+    margin-left: 200px;
+}
+.terompet {
+    padding: 8px 20px;
+    margin-left: 30px;
+}
+.piano {
+    padding: 8px 20px;
+    margin-left: 30px;
+}
+
+.btn--katak {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 350px;
+    border-radius: 10px;
+}
+
+.btn--gajah {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.btn--harimau {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.btn--angklung {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 350px;
+    border-radius: 10px;
+}
+
+.btn--terompet {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
+
+.btn--piano {
+    background: #e3e331;
+    padding: 8px 20px;
+    margin-left: 300px;
+    border-radius: 10px;
+}
